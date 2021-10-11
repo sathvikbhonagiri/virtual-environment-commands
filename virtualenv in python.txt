@@ -1,0 +1,21 @@
+(base) C:\Users\sathv>pip install virtualenv
+install virtualenv package
+
+(base) C:\Users\sathv> mkdir pr
+(base) C:\Users\sathv>cd pr
+
+to make a directory
+
+(base) C:\Users\sathv\pr> virtualenv pr1
+
+to create a virtual environment (pr) in pr1
+
+
+pr1\Scripts\activate.bat
+
+to activate virtual environment
+
+
+C:\Users\sathv\pr>deactivate
+
+to deactivate virtual environment
